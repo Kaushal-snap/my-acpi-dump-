@@ -1,0 +1,450 @@
+2026-11-01 01:16:05.855111-0800: PolicyEngine started: 7800020000000000, Time: Sun Nov  1 01:16:05 2026
+2026-11-01 01:16:18.716187-0800: NOTICE: kAGDCCallbackCapability: 0xd [ Validate SyncLinkTrain ModeSet]
+2026-11-01 01:16:22.784933-0800: NOTICE: No accelerator mode, limiting GPU capability 0:0:2:3 -> 0:0:2:2
+2026-11-01 01:16:22.785964-0800: NOTICE: Vendor portmap 0x3fe mst 0x3f8 ddc 0x4 aux 0x3fa
+2026-11-01 01:16:22.786735-0800: NOTICE: Features policyd 0x20000000 kernel 0x0
+2026-11-01 01:16:22.787527-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:16:22.788524-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788618-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788660-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788705-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788745-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788788-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788836-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788878-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788916-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.788985-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.789022-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.789062-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.789101-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.789143-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.789180-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.789223-0800: NOTICE: Decompressing..
+2026-11-01 01:16:22.789773-0800: NOTICE: doFallback addr 1 
+2026-11-01 01:16:22.792152-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:16:22.792179-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:16:22.792525-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:16:22.792557-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:16:22.792882-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:16:22.795858-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:16:22.795916-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:16:22.796340-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:16:22.796374-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:16:22.796709-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:16:22.796737-0800: NOTICE: FB AGDC state FB[0] - ON
+2026-11-01 01:16:22.799148-0800: NOTICE: accepted No_Media_Mode enter, Sun Nov  1 01:16:22 2026
+2026-11-01 01:16:22.799201-0800: NOTICE: accepted No_Media_Mode exit, Sun Nov  1 01:16:22 2026
+2026-11-01 01:16:22.799236-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:16:22.799257-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:16:22.799275-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:16:22.799294-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:16:22.799343-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:16:22.799358-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:16:22.799460-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:16:22.799529-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:16:22.799607-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:16:22.799681-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:16:22.799838-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:16:22.799962-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:16:22.800040-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:16:22.800138-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:16:22.800183-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:16:22.800197-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:16:22.800210-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:16:22.810321-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:16:22.810367-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:16:22.810502-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:16:22.810561-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:16:22.810615-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:16:22.810665-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:16:22.810713-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:16:22.810762-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:16:22.810811-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:16:23.921482-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:16:23.922045-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:22:37.193971-0800: PolicyEngine started: 7800020000000000, Time: Sun Nov  1 01:22:37 2026
+2026-11-01 01:22:48.457091-0800: NOTICE: kAGDCCallbackCapability: 0xd [ Validate SyncLinkTrain ModeSet]
+2026-11-01 01:22:50.609008-0800: NOTICE: No accelerator mode, limiting GPU capability 0:0:2:3 -> 0:0:2:2
+2026-11-01 01:22:50.610093-0800: NOTICE: Vendor portmap 0x3fe mst 0x3f8 ddc 0x4 aux 0x3fa
+2026-11-01 01:22:50.611055-0800: NOTICE: Features policyd 0x20000000 kernel 0x0
+2026-11-01 01:22:50.611823-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:22:50.613151-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613284-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613368-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613434-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613495-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613561-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613619-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613682-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613740-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613801-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613856-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613918-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.613975-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.614038-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.614094-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.614154-0800: NOTICE: Decompressing..
+2026-11-01 01:22:50.614970-0800: NOTICE: doFallback addr 1 
+2026-11-01 01:22:50.617534-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:22:50.617574-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:22:50.618172-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:22:50.618229-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:22:50.618633-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:22:50.621993-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:22:50.622035-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:22:50.622347-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:22:50.622383-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:22:50.622703-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:22:50.622729-0800: NOTICE: FB AGDC state FB[0] - ON
+2026-11-01 01:22:50.625015-0800: NOTICE: accepted No_Media_Mode enter, Sun Nov  1 01:22:50 2026
+2026-11-01 01:22:50.625065-0800: NOTICE: accepted No_Media_Mode exit, Sun Nov  1 01:22:50 2026
+2026-11-01 01:22:50.625112-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:22:50.625142-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:22:50.625169-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:22:50.625240-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:22:50.625261-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:22:50.625405-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:22:50.625500-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:22:50.625599-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:22:50.625696-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:22:50.625789-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:22:50.625914-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:22:50.626007-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:22:50.626125-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:22:50.626156-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:22:50.626173-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:22:50.636177-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:22:50.636216-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:22:50.636302-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:22:50.636360-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:22:50.636405-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:22:50.636449-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:22:50.636488-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:22:50.636530-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:22:50.636573-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:22:51.630719-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:22:51.630939-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:33:03.267904-0800: PolicyEngine started: 7800020000000000, Time: Sun Nov  1 01:33:03 2026
+2026-11-01 01:33:09.116304-0800: NOTICE: kAGDCCallbackCapability: 0xd [ Validate SyncLinkTrain ModeSet]
+2026-11-01 01:33:11.255853-0800: NOTICE: No accelerator mode, limiting GPU capability 0:0:2:3 -> 0:0:2:2
+2026-11-01 01:33:11.256895-0800: NOTICE: Vendor portmap 0x3fe mst 0x3f8 ddc 0x4 aux 0x3fa
+2026-11-01 01:33:11.257530-0800: NOTICE: Features policyd 0x20000000 kernel 0x0
+2026-11-01 01:33:11.258055-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:33:11.258989-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259090-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259142-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259184-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259227-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259267-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259311-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259350-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259393-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259431-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259472-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259510-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259553-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259605-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259647-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.259684-0800: NOTICE: Decompressing..
+2026-11-01 01:33:11.260203-0800: NOTICE: doFallback addr 1 
+2026-11-01 01:33:11.262412-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:33:11.262439-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:33:11.262836-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:33:11.262867-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:33:11.263188-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:33:11.266076-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:33:11.266112-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:33:11.266371-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:33:11.266400-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:33:11.266699-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:33:11.266719-0800: NOTICE: FB AGDC state FB[0] - ON
+2026-11-01 01:33:11.268733-0800: NOTICE: accepted No_Media_Mode enter, Sun Nov  1 01:33:11 2026
+2026-11-01 01:33:11.268778-0800: NOTICE: accepted No_Media_Mode exit, Sun Nov  1 01:33:11 2026
+2026-11-01 01:33:11.268812-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:33:11.268822-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:33:11.268845-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:33:11.268871-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:33:11.268879-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:33:11.268946-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:33:11.268982-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:33:11.269025-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:33:11.269112-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:33:11.269147-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:33:11.269193-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:33:11.269230-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:33:11.269277-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:33:11.269289-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:33:11.269295-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:33:11.281971-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:33:11.282018-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:33:11.282164-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:33:11.282261-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:33:11.282341-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:33:11.282417-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:33:11.282489-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:33:11.282564-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:33:11.282645-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:33:12.287993-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:33:12.288245-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:37:27.158690-0800: PolicyEngine started: 7800020000000000, Time: Sun Nov  1 01:37:27 2026
+2026-11-01 01:37:39.327840-0800: NOTICE: kAGDCCallbackCapability: 0xd [ Validate SyncLinkTrain ModeSet]
+2026-11-01 01:37:41.475826-0800: NOTICE: No accelerator mode, limiting GPU capability 0:0:2:3 -> 0:0:2:2
+2026-11-01 01:37:41.476147-0800: NOTICE: Vendor portmap 0x3fe mst 0x3f8 ddc 0x4 aux 0x3fa
+2026-11-01 01:37:41.476416-0800: NOTICE: Features policyd 0x20000000 kernel 0x0
+2026-11-01 01:37:41.476666-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:37:41.477084-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477122-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477138-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477155-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477170-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477185-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477200-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477215-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477229-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477244-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477258-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477273-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477287-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477303-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477316-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477331-0800: NOTICE: Decompressing..
+2026-11-01 01:37:41.477532-0800: NOTICE: doFallback addr 1 
+2026-11-01 01:37:41.479731-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:37:41.479740-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:37:41.479912-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:37:41.479927-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:37:41.480189-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:37:41.482689-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:37:41.482705-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:37:41.482833-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:37:41.482847-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:37:41.483099-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:37:41.483121-0800: NOTICE: FB AGDC state FB[0] - ON
+2026-11-01 01:37:41.484350-0800: NOTICE: accepted No_Media_Mode enter, Sun Nov  1 01:37:41 2026
+2026-11-01 01:37:41.484369-0800: NOTICE: accepted No_Media_Mode exit, Sun Nov  1 01:37:41 2026
+2026-11-01 01:37:41.484384-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:37:41.484394-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:37:41.484402-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:37:41.484427-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:37:41.484434-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:37:41.484496-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:37:41.484532-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:37:41.484568-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:37:41.484604-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:37:41.484641-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:37:41.484676-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:37:41.484712-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:37:41.484757-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:37:41.484768-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:37:41.484774-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:37:41.498476-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:37:41.498534-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:37:41.498673-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:37:41.498759-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:37:41.498838-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:37:41.498918-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:37:41.498989-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:37:41.499063-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:37:41.499140-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:37:42.501355-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:37:42.501972-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:41:28.768697-0800: PolicyEngine started: 7800020000000000, Time: Sun Nov  1 01:41:28 2026
+2026-11-01 01:41:38.518837-0800: NOTICE: kAGDCCallbackCapability: 0xd [ Validate SyncLinkTrain ModeSet]
+2026-11-01 01:41:41.656642-0800: NOTICE: No accelerator mode, limiting GPU capability 0:0:2:3 -> 0:0:2:2
+2026-11-01 01:41:41.656972-0800: NOTICE: Vendor portmap 0x3fe mst 0x3f8 ddc 0x4 aux 0x3fa
+2026-11-01 01:41:41.657257-0800: NOTICE: Features policyd 0x20000000 kernel 0x0
+2026-11-01 01:41:41.657482-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:41:41.657903-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.657939-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.657955-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.657973-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.657988-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658005-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658022-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658039-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658054-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658071-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658085-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658101-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658117-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658134-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658148-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658164-0800: NOTICE: Decompressing..
+2026-11-01 01:41:41.658373-0800: NOTICE: doFallback addr 1 
+2026-11-01 01:41:41.660579-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:41:41.660589-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:41:41.660772-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:41:41.660788-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:41:41.661051-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:41:41.663613-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 01:41:41.663629-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 01:41:41.663765-0800: NOTICE: Bit rate: 0x0
+2026-11-01 01:41:41.663778-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 01:41:41.664029-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 01:41:41.664038-0800: NOTICE: FB AGDC state FB[0] - ON
+2026-11-01 01:41:41.665268-0800: NOTICE: accepted No_Media_Mode enter, Sun Nov  1 01:41:41 2026
+2026-11-01 01:41:41.665287-0800: NOTICE: accepted No_Media_Mode exit, Sun Nov  1 01:41:41 2026
+2026-11-01 01:41:41.665304-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:41:41.665314-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:41:41.665322-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:41:41.665349-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:41:41.665356-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:41:41.665413-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:41:41.665451-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:41:41.665492-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:41:41.665528-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:41:41.665562-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:41:41.665601-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:41:41.665636-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:41:41.665684-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:41:41.665695-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:41:41.665702-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 01:41:41.675308-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 01:41:41.675318-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 01:41:41.675379-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 01:41:41.675421-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 01:41:41.675471-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 01:41:41.675522-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 01:41:41.675568-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 01:41:41.675609-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 01:41:41.675658-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 01:41:42.730781-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 01:41:42.731030-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 11:00:53.565378-0800: PolicyEngine started: 7800020000000000, Time: Sun Nov  1 11:00:53 2026
+2026-11-01 11:01:01.915634-0800: NOTICE: kAGDCCallbackCapability: 0xd [ Validate SyncLinkTrain ModeSet]
+2026-11-01 11:01:05.010759-0800: NOTICE: No accelerator mode, limiting GPU capability 0:0:2:3 -> 0:0:2:2
+2026-11-01 11:01:05.011092-0800: NOTICE: Vendor portmap 0x3fe mst 0x3f8 ddc 0x4 aux 0x3fa
+2026-11-01 11:01:05.011368-0800: NOTICE: Features policyd 0x20000000 kernel 0x0
+2026-11-01 11:01:05.011622-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 11:01:05.012071-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012109-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012126-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012143-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012159-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012177-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012193-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012209-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012225-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012241-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012257-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012273-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012289-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012305-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012321-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012337-0800: NOTICE: Decompressing..
+2026-11-01 11:01:05.012565-0800: NOTICE: doFallback addr 1 
+2026-11-01 11:01:05.014785-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 11:01:05.014794-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 11:01:05.014969-0800: NOTICE: Bit rate: 0x0
+2026-11-01 11:01:05.014983-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 11:01:05.015250-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 11:01:05.017810-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 11:01:05.017839-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 11:01:05.017988-0800: NOTICE: Bit rate: 0x0
+2026-11-01 11:01:05.018002-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 11:01:05.018265-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 11:01:05.018274-0800: NOTICE: FB AGDC state FB[0] - ON
+2026-11-01 11:01:05.019595-0800: NOTICE: accepted No_Media_Mode enter, Sun Nov  1 11:01:05 2026
+2026-11-01 11:01:05.019627-0800: NOTICE: accepted No_Media_Mode exit, Sun Nov  1 11:01:05 2026
+2026-11-01 11:01:05.019646-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 11:01:05.019656-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 11:01:05.019666-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 11:01:05.019693-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 11:01:05.019700-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 11:01:05.019771-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 11:01:05.019808-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 11:01:05.019865-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 11:01:05.019902-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 11:01:05.019937-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 11:01:05.019973-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 11:01:05.020009-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 11:01:05.020063-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 11:01:05.020075-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 11:01:05.020082-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 11:01:05.029455-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 11:01:05.029489-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 11:01:05.029741-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 11:01:05.029807-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 11:01:05.029844-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 11:01:05.029881-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 11:01:05.029915-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 11:01:05.029950-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 11:01:05.029986-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 11:01:06.121288-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 11:01:06.121606-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 11:04:45.042299-0800: NOTICE: accepted No_Media_Mode enter, Sun Nov  1 11:04:45 2026
+2026-11-01 11:05:56.624327-0800: LinkUpdate: 1.0 event: Change [2]
+2026-11-01 11:05:56.624379-0800: NOTICE: accepted No_Media_Mode exit, Sun Nov  1 11:05:56 2026
+2026-11-01 11:05:56.640402-0800: NOTICE: Addr: 1.0 event: Change [2] source: 0
+2026-11-01 11:05:56.640424-0800: NOTICE: doChange: addr 1.0 [0]
+2026-11-01 11:05:56.640435-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 11:05:56.640443-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 11:05:56.640530-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 11:05:56.640599-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 11:05:56.640650-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 11:05:56.640694-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 11:05:56.640888-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 11:05:56.641055-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 11:05:56.641113-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 11:10:20.394502-0800: PolicyEngine started: 7800020000000000, Time: Sun Nov  1 11:10:20 2026
+2026-11-01 11:10:32.230440-0800: NOTICE: kAGDCCallbackCapability: 0xd [ Validate SyncLinkTrain ModeSet]
+2026-11-01 11:10:34.360348-0800: NOTICE: No accelerator mode, limiting GPU capability 0:0:2:3 -> 0:0:2:2
+2026-11-01 11:10:34.360657-0800: NOTICE: Vendor portmap 0x3fe mst 0x3f8 ddc 0x4 aux 0x3fa
+2026-11-01 11:10:34.360972-0800: NOTICE: Features policyd 0x20000000 kernel 0x0
+2026-11-01 11:10:34.361208-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 11:10:34.361651-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361692-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361709-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361726-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361742-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361759-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361784-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361801-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361817-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361833-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361848-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361864-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361880-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361896-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361911-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.361927-0800: NOTICE: Decompressing..
+2026-11-01 11:10:34.362150-0800: NOTICE: doFallback addr 1 
+2026-11-01 11:10:34.364365-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 11:10:34.364376-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 11:10:34.364548-0800: NOTICE: Bit rate: 0x0
+2026-11-01 11:10:34.364562-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 11:10:34.364825-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 11:10:34.367331-0800: NOTICE: Port: 1 kAGDCPortCapability: 101001a DpcdDscSupport_t: 0 
+2026-11-01 11:10:34.367348-0800: NOTICE: Looking for: B]M bad:f00d
+2026-11-01 11:10:34.367479-0800: NOTICE: Bit rate: 0x0
+2026-11-01 11:10:34.367493-0800: NOTICE: IsDisplayPort bandwidth 2880x1800 - 3040x1852, 24 bpp [337750000 Hz, 1013250000 Mbs] [max: 2@HBR2, 2160 Mbs] @ 8 bpc
+2026-11-01 11:10:34.367752-0800: NOTICE: Populated addr 1.0 bad:f00d UUID 0 order 0:0 tx 2:2 dsp 1 WL 0 MS 0 edid 128 undef 0 DSC 0
+2026-11-01 11:10:34.367763-0800: NOTICE: FB AGDC state FB[0] - ON
+2026-11-01 11:10:34.369089-0800: NOTICE: accepted No_Media_Mode enter, Sun Nov  1 11:10:34 2026
+2026-11-01 11:10:34.369110-0800: NOTICE: accepted No_Media_Mode exit, Sun Nov  1 11:10:34 2026
+2026-11-01 11:10:34.369200-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 11:10:34.369280-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 11:10:34.369310-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 11:10:34.369376-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 11:10:34.369385-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 11:10:34.369472-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 11:10:34.369517-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 11:10:34.369562-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 11:10:34.369603-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 11:10:34.369639-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 11:10:34.369677-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 11:10:34.369715-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 11:10:34.369768-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 11:10:34.369788-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 11:10:34.369795-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
+2026-11-01 11:10:34.378587-0800: NOTICE: doChange: addr 1.0 [7]
+2026-11-01 11:10:34.378617-0800: NOTICE: doChange: addr 2.0 [7]
+2026-11-01 11:10:34.378717-0800: NOTICE: doChange: addr 3.0 [7]
+2026-11-01 11:10:34.378784-0800: NOTICE: doChange: addr 4.0 [7]
+2026-11-01 11:10:34.378865-0800: NOTICE: doChange: addr 5.0 [7]
+2026-11-01 11:10:34.378923-0800: NOTICE: doChange: addr 6.0 [7]
+2026-11-01 11:10:34.378970-0800: NOTICE: doChange: addr 7.0 [7]
+2026-11-01 11:10:34.379017-0800: NOTICE: doChange: addr 8.0 [7]
+2026-11-01 11:10:34.379072-0800: NOTICE: doChange: addr 9.0 [7]
+2026-11-01 11:10:35.407035-0800: LinkUpdate: 1.0 event: TrainingError [b]
+2026-11-01 11:10:35.407302-0800: NOTICE: Addr: 1.0 event: TrainingError [b] source: 0
